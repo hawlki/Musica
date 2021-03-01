@@ -56,8 +56,18 @@ namespace musica
             Console.WriteLine("Porque mi vida, yo lo aprender a vivir asi");
             Console.WriteLine("Bamboleo, bambolea");
             Console.WriteLine("Porque mi vida, yo lo aprender a vivir asi");
+            Console.WriteLine();
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("Etec Adolpho Berezin");
+            Console.WriteLine("Feito por Israel Camilo Lopes");
+            Console.WriteLine("1I3");
+            Console.WriteLine("-----------------------------");
             Console.ResetColor();
             Console.WriteLine();
+            Console.WriteLine("pressione uma tecla para limpar a tela");
+            Console.ReadKey();
+            Console.Clear();
         }
     }
 }
