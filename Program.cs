@@ -34,13 +34,13 @@ namespace musica
             Console.WriteLine("Porque mi vida, yo lo aprender a vivir asi");
             Console.WriteLine();
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("No tenes perdón de Dios");
+            Console.WriteLine("No tenes perdon de Dios");
             Console.WriteLine("Tu eres mi vida, la fortuna del destino");
             Console.WriteLine("En el destino del desamparo");
             Console.WriteLine("Lo mismo ya que ayer");
             Console.WriteLine("Lo mismo soy yo");
             Console.WriteLine();
-            Console.WriteLine("(No te encuentro a I'abandon)");
+            Console.WriteLine("(No te encuentro a I abandon)");
             Console.WriteLine("Eres imposible no te encuentro de verdad");
             Console.WriteLine("Por eso un día no encuentro si de nada");
             Console.WriteLine("Lo mismo ya que ayer");
