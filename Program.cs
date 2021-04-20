@@ -9,6 +9,8 @@ namespace musica
             Console.Clear();
             Console.Beep();
 
+            
+
             Console.ForegroundColor = ConsoleColor.Red;  
             Console.WriteLine("------------");
             Console.WriteLine("Bamboleo");
@@ -67,11 +69,9 @@ namespace musica
             Console.WriteLine();
 
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo Lopes");
-            Console.WriteLine("1I3");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("           Música           ");
+            Console.WriteLine("----------------------------");
 
             Console.ResetColor();
             Console.WriteLine();
